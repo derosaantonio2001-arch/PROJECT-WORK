@@ -1,4 +1,6 @@
-.
+🏭 Manufacturing Process Simulation
+
+Simulazione della capacità produttiva di un'azienda elettronica — stima tempi, quantità e giorni necessari per la produzione di componenti chiave.
 
 
 📌 Descrizione
